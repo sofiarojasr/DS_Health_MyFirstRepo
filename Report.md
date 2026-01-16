@@ -16,18 +16,6 @@ a lot of sorting in the Terminal and Finder app. However, I did learn from this 
 I would say I am still confused about how the whole process works as I am fairly new to this but I will make sure that I put in the work to familiarize myself 
 with it more and more.
 
-
+<img width="3024" height="1812" alt="image" src="https://github.com/user-attachments/assets/8f55bb6e-16ee-4dde-9d36-c9ff0772691f" />
 
 ![profilepic](https://github.com/user-attachments/assets/de278490-7c09-4646-8531-a47003f8711e)
-
-
-
-
-Storytelling (20 Points): Provide a self-contained "story" of what you did with your new repository (the process of cloning, adding the README, 
-committing, pushing, and creating an issue).
-Reflect (20 Points): Answer what you learned and what you are still confused about.
-Stylize (10 Points): Experiment with different markdown styles (bold, italics, colors, headers, tables, bullet points, etc.) to make your 
-report professional and engaging.
-Visuals (10 Points): Please include at least two images in your report:
-A screenshot of your new repository's main page or the issue you created.
-The image file you added to the repository in step 1, displayed using markdown syntax.
